@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World
+  list:
+    values: 1,52,6,16,61
+
+db:
+  connection: "db-string-config"
+  host: 127.35.5.2
+  port: 8252
